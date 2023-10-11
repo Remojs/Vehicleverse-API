@@ -8,7 +8,7 @@ export class Vehicle {
   brand_ID: number;
   @Prop({ required: true, trim: true })
   brand_name: string;
-  @Prop({ required: true })
+  @Prop({ required: true, type: Object })
   cars: object;
 }
 

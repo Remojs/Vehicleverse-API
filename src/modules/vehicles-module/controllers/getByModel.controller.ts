@@ -2,7 +2,7 @@ import { Controller, Get, Param } from '@nestjs/common';
 import { GetByModelService } from '../services/getByModel.service';
 
 @Controller('vehicle')
-export class VehicleController {
+export class GetByModelController {
   constructor(private vehicleService: GetByModelService) {}
 
   @Get(':model')
