@@ -10,7 +10,7 @@ VehicleVers-API es una API que proporciona datos sobre modelos de automóviles y
 
 ## Características Actuales
 
-Por el momento, VehicleVers-API ofrece las siguientes características:
+Por el momento, VehicleVers-API ofrece las siguientes características al cliente:
 
 - **Modelos de Automóviles:** Accede a información detallada sobre una selección inicial de modelos de automóviles. Obtén datos como el nombre del modelo, año de fabricación, tipo de vehículo y más.
 
